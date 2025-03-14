@@ -5,11 +5,11 @@ Hi there! 👋 I'm Beda Prakash Behera 🚀<br><br>🎓 Master's in Computer Sci
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/beda-prakash-behera/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bedaprakash123@gmail.com) 
 
-🌐 **Portfolio:** [Coming Soon](#)  
+🌐 **Portfolio:** [Visit My Portfolio](https://v0-my-portfolio-application-g26hh17iw-beda-prakashs-projects.vercel.app/)  
 
 ## 🚀 Featured Projects:
 - 🔹 [Chat Application](https://github.com/yourproject) - A real-time chat app using WebSockets & Kafka  
-- 🔹 [Portfolio Website](https://yourportfolio.com) - Built with React & Tailwind  
+- 🔹 [Portfolio Website]([https://yourportfolio.com](https://v0-my-portfolio-application-g26hh17iw-beda-prakashs-projects.vercel.app/)) - Built with React & Tailwind  
 - 🔹 [E-commerce System](https://github.com/yourproject) - Scalable backend with Spring Boot 
 
 
