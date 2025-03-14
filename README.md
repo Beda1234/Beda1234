@@ -9,7 +9,7 @@ Hi there! 👋 I'm Beda Prakash Behera 🚀<br><br>🎓 Master's in Computer Sci
 
 ## 🚀 Featured Projects:
 - 🔹 [Chat Application](https://github.com/yourproject) - A real-time chat app using WebSockets & Kafka  
-- 🔹 [Portfolio Website]([https://yourportfolio.com](https://v0-my-portfolio-application-g26hh17iw-beda-prakashs-projects.vercel.app/)) - Built with React & Tailwind  
+- 🔹 [Portfolio Website](https://v0-my-portfolio-application-g26hh17iw-beda-prakashs-projects.vercel.app/) - Built with React & Tailwind  
 - 🔹 [E-commerce System](https://github.com/yourproject) - Scalable backend with Spring Boot 
 
 
